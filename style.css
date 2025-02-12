@@ -1,0 +1,20 @@
+body{
+   background-color: #FFFFE0;
+}
+.container{
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 900px;
+    background-color: #F8E7F6;
+}
+.card{
+    background-image: url(grad.jpg);
+    background-size: cover;
+}
+h1{
+    font-family: "Mr Bedfort", cursive;
+    font-weight: 400;
+    font-style: normal;
+  
+}
